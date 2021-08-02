@@ -5,7 +5,7 @@ import { shoeColor, shoeLang } from './state'
 
 export default function Model(props) {
   const group = useRef()
-  const { nodes, materials } = useGLTF('/model/shoe-draco.glb')
+  const { nodes, materials } = useGLTF('/ShoeThree/build/model/shoe-draco.glb')
   const snap = useSnapshot(shoeColor);
   const [hovered, setHovered] = useState(null);
 
