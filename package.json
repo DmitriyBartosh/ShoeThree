@@ -1,6 +1,6 @@
 {
   "name": "blender-demo",
-  "homepage": "https://dmitriybartosh.github.io/ShoeThree/",
+  "homepage": "https://dmitriybartosh.github.io/ShoeThree/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

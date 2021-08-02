@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ShoeThree/static/css/main.787e1fb0.chunk.css",
-    "main.js": "/ShoeThree/static/js/main.87186b7f.chunk.js",
-    "main.js.map": "/ShoeThree/static/js/main.87186b7f.chunk.js.map",
-    "runtime-main.js": "/ShoeThree/static/js/runtime-main.e9a8e0ae.js",
-    "runtime-main.js.map": "/ShoeThree/static/js/runtime-main.e9a8e0ae.js.map",
-    "static/js/2.4154f104.chunk.js": "/ShoeThree/static/js/2.4154f104.chunk.js",
-    "static/js/2.4154f104.chunk.js.map": "/ShoeThree/static/js/2.4154f104.chunk.js.map",
-    "index.html": "/ShoeThree/index.html",
-    "static/css/main.787e1fb0.chunk.css.map": "/ShoeThree/static/css/main.787e1fb0.chunk.css.map",
-    "static/js/2.4154f104.chunk.js.LICENSE.txt": "/ShoeThree/static/js/2.4154f104.chunk.js.LICENSE.txt"
+    "main.css": "/ShoeThree/build/static/css/main.787e1fb0.chunk.css",
+    "main.js": "/ShoeThree/build/static/js/main.87186b7f.chunk.js",
+    "main.js.map": "/ShoeThree/build/static/js/main.87186b7f.chunk.js.map",
+    "runtime-main.js": "/ShoeThree/build/static/js/runtime-main.96122031.js",
+    "runtime-main.js.map": "/ShoeThree/build/static/js/runtime-main.96122031.js.map",
+    "static/js/2.4154f104.chunk.js": "/ShoeThree/build/static/js/2.4154f104.chunk.js",
+    "static/js/2.4154f104.chunk.js.map": "/ShoeThree/build/static/js/2.4154f104.chunk.js.map",
+    "index.html": "/ShoeThree/build/index.html",
+    "static/css/main.787e1fb0.chunk.css.map": "/ShoeThree/build/static/css/main.787e1fb0.chunk.css.map",
+    "static/js/2.4154f104.chunk.js.LICENSE.txt": "/ShoeThree/build/static/js/2.4154f104.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9a8e0ae.js",
+    "static/js/runtime-main.96122031.js",
     "static/js/2.4154f104.chunk.js",
     "static/css/main.787e1fb0.chunk.css",
     "static/js/main.87186b7f.chunk.js"
