@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+html {
+  font-size: 62.5%;
+  line-height: 1.25;
+  body {
+    font-family: 'Roboto', sans-serif;
+    color: $black;
+  }
+}
+
+h1{
+  font-family: 'Raleway', sans-serif;
+  font-size: 4rem;
+  @media (max-width: $layout-breakpoint-mobile) {
+    font-size: 2.5rem;
+    letter-spacing: 4.7px;
+  }
+}
+
+p,
+a,
+span {
+  font-size: 1.25rem;
+  @media (max-width: $layout-breakpoint-mobile) {
+    font-size: 1rem;
+  }
+}
+span{
+  @media (max-width: $layout-breakpoint-mobile) {
+    display: none;
+  }
+}
+
+a {
+  font-weight: 600;
+}
